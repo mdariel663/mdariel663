@@ -1,6 +1,6 @@
 # 👨‍💻 Mario Dariel Sirés Martínez
 
-📧 mdariel663@gmail.com | 📍 La Habana, Cuba | [💼 LinkedIn](https://cu.linkedin.com/in/mario-dariel-sires-martinez-335b282bb) | [🐙 GitHub](http://github.com/mdariel663)
+📧 mdariel663@gmail.com | 📍 La Habana, Cuba | [💼 LinkedIn](https://cu.linkedin.com/in/mario-dariel-sires-martinez) | [🐙 GitHub](http://github.com/mdariel663)
 
 ---
 
