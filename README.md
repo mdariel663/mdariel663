@@ -1,16 +1,23 @@
-## Hi there 👋
+[💼 LinkedIn](https://cu.linkedin.com/in/mario-dariel-sires-martinez) | [🐙 GitHub](http://github.com/mdariel663)
 
-<!--
-**mdariel663/mdariel663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h1 align="center">Hi 👋, I'm Mario Dariel Sires Martinez</h1>
+<h3 align="center">A passionate full-stack developer from Cuba</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 💪 Skills
+- **💻 Programming Languages**: Python, C++, Java, Kotlin
+- **🌐 Web Development**: React, NodeJS, Express, PHP
+- **📱 Mobile Development**: Kotlin, Java
+- **📐 Design Patterns**: MVC, SCRUM
+- **🛠️ Tools and Technologies**: Docker, Git
+- **🔒 Computer Security Knowledge**: Intermediate-advanced level
+- **🌍 Languages**: Spanish (native), English (intermediate level), Russian (basic level)
+---
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,c,qt,androidstudio,react,python,php,js,bash,linux,git,flask" />
+  </a>
+</p>
+<a href="https://portafolio-mdariel663.vercel.app/">Click for view my portafolio </a>
